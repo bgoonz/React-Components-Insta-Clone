@@ -1,5 +1,9 @@
 # React-Components-Insta-Clone
 
+
+[notes](./notes/notes.md)
+
+
 ## Composing React Components and Passing Data Via Props
 
 ## Introduction
